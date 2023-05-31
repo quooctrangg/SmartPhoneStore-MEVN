@@ -1,0 +1,209 @@
+[
+  {
+    "_id": {
+      "$oid": "64357723b4703f75fe1de833"
+    },
+    "firstname": "Admin",
+    "lastname": "Boss",
+    "numberphone": "0777777777",
+    "password": "$2b$10$Hcnf5psgVJrwZL5Jv/no1.y18FtaY5ex1spXlQwlugunFIchZvBDW",
+    "address": "HG",
+    "role": 0,
+    "linkimg": "https://cdn-icons-png.flaticon.com/512/219/219988.png",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1681225507450"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1682174724366"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64454a9478794808d5a82e4c"
+    },
+    "firstname": "Nguyen",
+    "lastname": "Van B",
+    "numberphone": "0777777771",
+    "password": "$2b$10$9Rys0/j4pjRIVh.obQhRGeVzOVoYbJy2rw/BTpoZKOSya1.jRJMuG",
+    "address": "Kien Giang",
+    "role": 1,
+    "linkimg": "https://static.vecteezy.com/system/resources/thumbnails/000/439/863/small/Basic_Ui__28186_29.jpg",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682262676464"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1682262676464"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64454ab578794808d5a82e52"
+    },
+    "firstname": "Nguyen",
+    "lastname": "Van C",
+    "numberphone": "0777777772",
+    "password": "$2b$10$HdhobaY.PG4X/QbGkVVJsucO1XuTgq15XNCohFUId85vN4a8aCidi",
+    "address": "Soc Trang",
+    "role": 1,
+    "linkimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSppkoKsaYMuIoNLDH7O8ePOacLPG1mKXtEng&usqp=CAU",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682262709330"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1682262709330"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64454acb78794808d5a82e58"
+    },
+    "firstname": "Nguyen",
+    "lastname": "Van D",
+    "numberphone": "0777777770",
+    "password": "$2b$10$Fs9Tjd1oG2hh.00bc5.p.ud35qjsaHH4PKlXmUU1DQT9eca9r/OLy",
+    "address": "Ca Mau",
+    "role": 1,
+    "linkimg": "https://cdn-icons-png.flaticon.com/512/219/219988.png",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682262731771"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1682262731771"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64454af278794808d5a82e5e"
+    },
+    "firstname": "Nguyen",
+    "lastname": "Van E",
+    "numberphone": "07777777773",
+    "password": "$2b$10$E.81WjzIAhKG3Ru1vg6A2.G7CSl0WlmhAo8o/1mmdgnRU4tPqvQL6",
+    "address": "Soc Trang",
+    "role": 1,
+    "linkimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwrbr4wGM0PRWFZYQTpYtmH29zq1lOWyGfMg&usqp=CAU",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682262770676"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1682262770676"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64454b0f78794808d5a82e64"
+    },
+    "firstname": "Nguyen",
+    "lastname": "Van F",
+    "numberphone": "0777777774",
+    "password": "$2b$10$Z0JgwsjAyb8COHsEKVrCieYlrOrUr0cFLGPBhct5DA2Q04Y13t5.u",
+    "address": "Vinh Long",
+    "role": 1,
+    "linkimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuWgg1mjdrrer5asSh0TiJKDkdg40UEHc3uw&usqp=CAU",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682262799775"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1682262799775"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64454b3678794808d5a82e6a"
+    },
+    "firstname": "Nguyen",
+    "lastname": "Van G",
+    "numberphone": "0777777775",
+    "password": "$2b$10$xSYDfeCYMaFaVek0Q0Slv.gcKI/h.ivxTara0G1hxHYME2D8IDOty",
+    "address": "Dong Thap",
+    "role": 1,
+    "linkimg": "https://static.vecteezy.com/system/resources/thumbnails/000/439/863/small/Basic_Ui__28186_29.jpg",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682262838556"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1682262838556"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64454b5c78794808d5a82e72"
+    },
+    "firstname": "Nguyen",
+    "lastname": "Van H",
+    "numberphone": "0777777776",
+    "password": "$2b$10$vP/goA/gX3gk5GTS3fSNG.SXZWopmahUF5PEy3sCL8x4l1C9ubGUC",
+    "address": "Ben Tre",
+    "role": 1,
+    "linkimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSppkoKsaYMuIoNLDH7O8ePOacLPG1mKXtEng&usqp=CAU",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682262876039"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1682262876039"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64454b7078794808d5a82e78"
+    },
+    "firstname": "Nguyen",
+    "lastname": "Van K",
+    "numberphone": "0777777778",
+    "password": "$2b$10$VHH.nUpq9V6EIns1cTzPzetayiBf.3bouvN5IaK35ohHUTna5iQ3S",
+    "address": "Bac Lieu",
+    "role": 1,
+    "linkimg": "https://cdn.iconscout.com/icon/free/png-256/laptop-user-1-1179329.png",
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682262896981"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1682262896981"
+      }
+    },
+    "__v": 0
+  }
+]

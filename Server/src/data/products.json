@@ -1,0 +1,530 @@
+[
+  {
+    "_id": "sp001",
+    "name": "Samsung Galaxy S23 5G",
+    "price": 16390000,
+    "brand": "Samsung",
+    "description": "Samsung Galaxy S23 5G 128GB chắc hẳn không còn là cái tên quá xa lạ đối với các tín độ công nghệ hiện nay, được xem là một trong những gương mặt chủ chốt đến từ nhà Samsung với cấu hình mạnh mẽ bậc nhất, camera trứ danh hàng đầu cùng lối hoàn thiện vô cùng sang trọng và hiện đại",
+    "image": "1681874195791-samsung-galaxy-s23-200x200.jpg",
+    "color": "Tím nhạt",
+    "ram": 8,
+    "storage": 128,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1681523384952"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1681874195825"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "sp002",
+    "name": "iPhone 14 Pro Max",
+    "price": 27090000,
+    "brand": "Apple",
+    "description": "iPhone 14 Pro Max một siêu phẩm trong giới smartphone được nhà Táo tung ra thị trường vào tháng 09/2022. Máy trang bị con chip Apple A16 Bionic vô cùng mạnh mẽ, đi kèm theo đó là thiết kế hình màn hình mới, hứa hẹn mang lại những trải nghiệm đầy mới mẻ cho người dùng iPhone.",
+    "image": "1681523544693-iphone-14-pro-max-den-thumb-600x600.jpg",
+    "color": "Đen",
+    "ram": 6,
+    "storage": 128,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1681523544728"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1681523544728"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "sp003",
+    "name": "iPhone 14 Pro 256GB",
+    "price": 27290000,
+    "brand": "Apple",
+    "description": "Apple trong sự kiện ngày 8/9 đã giới thiệu đến người dùng mẫu iPhone 14 Pro 256GB mang những cải tiến về mặt thiết kế cũng như cấu hình phần cứng, hứa hẹn một sản phẩm mạnh mẽ đáp ứng mọi nhu cầu của bạn.",
+    "image": "1681524076714-iphone-14-pro-vang-thumb-600x600.jpg",
+    "color": "Vàng",
+    "ram": 6,
+    "storage": 256,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1681524076743"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1681524076743"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "sp004",
+    "name": "Samsung Galaxy S21 FE 5G",
+    "price": 10590000,
+    "brand": "Samsung",
+    "description": "Samsung Galaxy S21 FE 5G được Samsung ra mắt với dáng dấp thời thượng, cấu hình khỏe, chụp ảnh đẹp với bộ 3 camera chất lượng, thời lượng pin đủ dùng hằng ngày và còn gì nữa? Mời bạn khám phá qua nội dung sau ngay.",
+    "image": "1681524260654-Samsung-Galaxy-S21-FE-vang-1-2-600x600.jpg",
+    "color": "Xám",
+    "ram": 6,
+    "storage": 128,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1681524260669"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1681524260669"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "sp005",
+    "name": "Xiaomi Redmi 12C",
+    "price": 2990000,
+    "brand": "Xiaomi",
+    "description": "Xiaomi Redmi 12C là một thiết bị di động tầm trung được giới thiệu bởi Xiaomi, với cấu hình vượt trội so với các đối thủ trong cùng phân khúc, điều này nhờ trang bị con chip MediaTek Helio G85 mạnh mẽ giúp máy có thể xử lý tốt nhiều tác vụ. Hơn nữa, với bộ ống kính chất lượng 50 MP cho phép bạn chụp ảnh chất lượng, sắc nét và đẹp mắt.",
+    "image": "1681524374641-xiaomi-redmi-12c-grey-thumb-600x600.jpg",
+    "color": "Xám",
+    "ram": 4,
+    "storage": 64,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1681524374674"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1681524374674"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "sp006",
+    "name": "Samsung Galaxy S23 Ultra 5G",
+    "price": 26990000,
+    "brand": "Samsung",
+    "description": "Cuối cùng thì chiếc điện thoại Samsung Galaxy S23 cũng đã chính thức ra mắt tại sự kiện Galaxy Unpacked vào đầu tháng 2 năm 2023, máy nổi bật với camera 200 MP chất lượng, hiệu năng mạnh mẽ nhờ tích hợp con chip Snapdragon 8 Gen 2 và được trang bị thêm nhiều công nghệ hàng đầu trong giới smartphone.",
+    "image": "1681524479804-samsung-galaxy-s23-ultra-1-600x600.jpg",
+    "color": "Đen",
+    "ram": 8,
+    "storage": 256,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1681524479840"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1681524479840"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "sp007",
+    "name": "iPhone 11",
+    "price": 12090000,
+    "brand": "Apple",
+    "description": "Được xem là một trong những phiên bản iPhone \"giá rẻ\" của bộ 3 iPhone 11 series nhưng iPhone 11 vẫn sở hữu cho mình rất nhiều ưu điểm mà hiếm có một chiếc smartphone nào khác sở hữu.",
+    "image": "1681524586700-iphone-xi-den-600x600.jpg",
+    "color": "Đen",
+    "ram": 4,
+    "storage": 128,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1681524586730"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1681524586730"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "sp008",
+    "name": "Vivo Y35",
+    "price": 6090000,
+    "brand": "Vivo",
+    "description": "Tiếp nối sự thành công của các mẫu smartphone tầm trung tại thị trường Việt Nam thì mới đây Vivo đã chính thức cho ra mắt điện thoại Vivo Y35. Máy sở hữu cho mình khả năng sạc siêu nhanh 44 W, cụm camera đem đến những bức ảnh sắc nét và một hiệu năng ổn định trong phân khúc.",
+    "image": "1681544879004-vivo-y35-thumb-den-600x600.jpg",
+    "color": "Đen",
+    "ram": 8,
+    "storage": 128,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1681524673133"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1681544879044"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "sp009",
+    "name": "OPPO Reno8 T 5G",
+    "price": 10690000,
+    "brand": "OPPO",
+    "description": "Tiếp nối sự thành công rực rỡ đến từ các thế hệ trước đó thì chiếc OPPO Reno8 T 5G 256GB cuối cùng đã được giới thiệu chính thức tại Việt Nam, được định hình là dòng sản phẩm thuộc phân khúc tầm trung với camera 108 MP, con chip Snapdragon 695 cùng kiểu dáng thiết kế mặt lưng và màn hình bo cong hết sức nổi bật.",
+    "image": "1682260923071-oppo-reno8t-vang1-thumb-600x600.jpg",
+    "color": "Vàng đồng",
+    "ram": 8,
+    "storage": 256,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682260923098"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1682260923098"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "sp010",
+    "name": "Realme C55 6GB",
+    "price": 4590000,
+    "brand": "Realme",
+    "description": "Gần đây, chiếc điện thoại realme C55 đã được giới thiệu chính thức với bộ thông số kỹ thuật đáng chú ý và giá cả phù hợp cho người dùng, hãng tạo ra sản phẩm này nhằm cải thiện trải nghiệm cho những sản phẩm thuộc phân khúc giá rẻ.",
+    "image": "1682261013484-realme-c35-vang-thumb-600x600.jpg",
+    "color": "Vàng",
+    "ram": 6,
+    "storage": 128,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682261013530"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1682261013530"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "sp011",
+    "name": "Samsung Galaxy A23",
+    "price": 4690000,
+    "brand": "Samsung",
+    "description": "Samsung Galaxy A23 4GB sở hữu bộ thông số kỹ thuật khá ấn tượng trong phân khúc, máy có một hiệu năng ổn định, cụm 4 camera thông minh cùng một diện mạo trẻ trung phù hợp cho mọi đối tượng người dùng.",
+    "image": "1682261100621-samsung-galaxy-a23-cam-thumb-600x600.jpg",
+    "color": "Cam",
+    "ram": 4,
+    "storage": 128,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682261100660"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1682261100660"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "sp012",
+    "name": "Samsung Galaxy S20 FE",
+    "price": 89900000,
+    "brand": "Samsung",
+    "description": "Samsung đã giới thiệu đến người dùng thành viên mới của dòng S20 Series đó chính là điện thoại Samsung Galaxy S20 FE. Đây là mẫu flagship cao cấp quy tụ nhiều tính năng mà Samfan yêu thích, hứa hẹn sẽ mang lại trải nghiệm cao cấp của dòng Galaxy S với mức giá dễ tiếp cận hơn.",
+    "image": "1682261195695-samsung-galaxy-s20-fan-edition-xanh-la-thumbnew-600x600.jpeg",
+    "color": "Xanh lá",
+    "ram": 8,
+    "storage": 256,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682261195718"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1682261195718"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "sp013",
+    "name": "iPhone 14 ",
+    "price": 19490000,
+    "brand": "iPhone",
+    "description": "iPhone 14 128GB được xem là mẫu smartphone bùng nổ của nhà táo trong năm 2022, ấn tượng với ngoại hình trẻ trung, màn hình chất lượng đi kèm với những cải tiến về hệ điều hành và thuật toán xử lý hình ảnh, giúp máy trở thành cái tên thu hút được đông đảo người dùng quan tâm tại thời điểm ra mắt.",
+    "image": "1682261285552-iPhone-14-thumb-do-600x600.jpg",
+    "color": "Đỏ",
+    "ram": 6,
+    "storage": 128,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682261285584"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1682261285584"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "sp014",
+    "name": "Vivo V25 5G",
+    "price": 9490000,
+    "brand": "Vivo",
+    "description": "Dường như 2022 là một năm bùng nổ cho điện thoại V series khi nhiều sản phẩm được cho ra mắt với thông số và thiết kế rất ấn tượng, trong đó có Vivo V25 vừa được giới thiệu vào tháng 10/2022 hứa hẹn sẽ gây sốt trên thị trường công nghệ trong giai đoạn cuối năm nay nhờ tạo hình đẹp cùng hiệu năng mạnh mẽ.",
+    "image": "1682261383369-vivo-v25-5g-vang-thumb-1-1-600x600.jpg",
+    "color": "Vàng",
+    "ram": 8,
+    "storage": 128,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682261383411"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1682261383411"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "sp015",
+    "name": "Realme C30s",
+    "price": 1890000,
+    "brand": "Realme",
+    "description": "Mới đây thì chiếc điện thoại realme C30s (2GB/32GB) cũng đã chính thức lộ diện đúng như dự kiến của người dùng với bộ thông số kỹ thuật khá ấn tượng cùng mức giá hợp lý. Điều này giúp nâng cao trải nghiệm một cách tốt hơn đối với những dòng sản phẩm thuộc phân khúc giá rẻ.",
+    "image": "1682261473757-Realme-c30s-xanh-temp-600x600.jpg",
+    "color": "Xanh",
+    "ram": 2,
+    "storage": 32,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682261473783"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1682261473783"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "sp016",
+    "name": "Samsung Galaxy S23+ 5G",
+    "price": 22490000,
+    "brand": "Samsung",
+    "description": "Samsung Galaxy S23+ 5G 256GB là chiếc điện thoại thuộc dòng cao cấp nhất của Samsung được giới thiệu vào tháng 02/2023. Máy sở hữu một vài điểm ấn tượng như camera có khả năng quay video 8K, cùng với đó là con chip Snapdragon 8 Gen 2 mạnh mẽ hàng đầu giới điện thoại Android.",
+    "image": "1682261555631-samsung-galaxy-s23-plus-600x600.jpg",
+    "color": "Kem",
+    "ram": 8,
+    "storage": 256,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682261555664"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1682261555664"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "sp017",
+    "name": "iPhone 14 Plus",
+    "price": 21890000,
+    "brand": "iPhone",
+    "description": "Sau nhiều thế hệ điện thoại của Apple thì cái tên “Plus” cũng đã chính thức trở lại vào năm 2022 và xuất hiện trên chiếc iPhone 14 Plus 128GB, nổi trội với ngoại hình bắt trend cùng màn hình kích thước lớn để đem đến không gian hiển thị tốt hơn cùng cấu hình mạnh mẽ không đổi so với bản tiêu chuẩn.",
+    "image": "1682261662242-iPhone-14-plus-thumb-den-600x600.jpg",
+    "color": "Đen",
+    "ram": 6,
+    "storage": 128,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682261662281"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1682261662281"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "sp018",
+    "name": "Samsung Galaxy Z Fold4",
+    "price": 31490000,
+    "brand": "Samsung",
+    "description": "Tại sự kiện Samsung Unpacked thường niên, Samsung Galaxy Z Fold4 256GB chính thức được trình làng thị trường công nghệ, mang trên mình nhiều cải tiến đáng giá giúp Galaxy Z Fold trở thành dòng điện thoại gập đã tốt nay càng tốt hơn.",
+    "image": "1682261738813-samsung-galaxy-z-fold4-kem-256gb-600x600.jpg",
+    "color": "Kem",
+    "ram": 12,
+    "storage": 256,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682261738850"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1682261738850"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "sp019",
+    "name": "Xiaomi 12T 5G",
+    "price": 9890000,
+    "brand": "Xiaomi",
+    "description": "Xiaomi 12T series đã ra mắt trong sự kiện của Xiaomi vào ngày 4/10, trong đó có Xiaomi 12T 5G 128GB - máy sở hữu nhiều công nghệ hàng đầu trong giới smartphone tiêu biểu như: Chipset mạnh mẽ đến từ MediaTek, camera 108 MP sắc nét cùng khả năng sạc 120 W siêu nhanh.",
+    "image": "1682261815082-xiaomi-12t-thumb-600x600.jpg",
+    "color": "Đen",
+    "ram": 8,
+    "storage": 128,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682261815120"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1682261815120"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "sp020",
+    "name": "Xiaomi Redmi A1",
+    "price": 1790000,
+    "brand": "Xiaomi",
+    "description": "Mới đây chiếc điện thoại Xiaomi Redmi A1 cũng đã được nhà Xiaomi chính thức cho ra mắt cùng một mức giá bán khá ấn tượng, phù hợp với những bạn học sinh - sinh viên đang mong muốn chọn mua cho mình một thiết bị có giá thành vừa phải nhằm đáp ứng nhu cầu học tập cũng như tra cứu thông tin nhẹ nhàng.",
+    "image": "1682261895058-Xiaomi-Redmi-A1-thumb-xanh-duong-600x600.jpg",
+    "color": "Xanh dương",
+    "ram": 2,
+    "storage": 32,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682261895091"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1682261895091"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "sp021",
+    "name": "Vivo Y16",
+    "price": 3290000,
+    "brand": "Vivo",
+    "description": "Vivo Y16 64GB tiếp tục sẽ là cái tên được hãng bổ sung cho bộ sưu tập điện thoại Vivo dòng Y trong thời điểm cuối năm 2022, với mục tiêu mang đến nhiều trải nghiệm tốt hơn đối với dòng sản phẩm giá rẻ, Vivo hứa hẹn sẽ mang lại cho người dùng những trải nghiệm vượt xa mong đợi nhờ việc trang bị nhiều công nghệ xịn sò.",
+    "image": "1682261976692-vivo-y16-vang-thumb-600x600.jpg",
+    "color": "Vàng",
+    "ram": 4,
+    "storage": 64,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682261976720"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1682261976720"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "sp022",
+    "name": "TCL 30+",
+    "price": 3190000,
+    "brand": "TCL",
+    "description": "TCL 30+ là một cái tên khá mới mẻ trên thị trường điện thoại di động, sở hữu một mức giá không quá cao nhưng lại trang bị bên trong nhiều thông số kỹ thuật ấn tượng. Nổi bật trong đó có thể kể đến như camera 50 MP và con chip gaming của nhà MediaTek.",
+    "image": "1682262090153-tcl-30-plus-thumb-600x600-1-600x600.jpg",
+    "color": "Đen",
+    "ram": 4,
+    "storage": 128,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682262090167"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1682262090167"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "sp023",
+    "name": "OPPO Reno8 Pro 5G",
+    "price": 17490000,
+    "brand": "OPPO",
+    "description": "OPPO Reno8 Pro 5G là chiếc điện thoại cao cấp được nhà OPPO ra mắt vào thời điểm 09/2022, máy hướng đến sự hoàn thiện cao cấp ở phần thiết kế cùng khả năng quay chụp chuyên nghiệp nhờ trang bị vi xử lý hình ảnh MariSilicon X chuyên dụng.",
+    "image": "1682262169243-oppo-reno8-pro-thumb-xanh-1-600x600.jpg",
+    "color": "Xanh ngọc",
+    "ram": 12,
+    "storage": 256,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682262169254"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1682262169254"
+      }
+    },
+    "__v": 0
+  },
+  {
+    "_id": "sp024",
+    "name": "OPPO A55",
+    "price": 3690000,
+    "brand": "OPPO",
+    "description": "OPPO cho ra mắt OPPO A55 4G chiếc smartphone giá rẻ tầm trung có thiết kế đẹp mắt, cấu hình khá ổn, cụm camera chất lượng và dung lượng pin ấn tượng, mang đến một lựa chọn trải nghiệm thú vị vừa túi tiền cho người tiêu dùng.",
+    "image": "1682262237461-oppo-a55-4g-thumb-new-600x600.jpg",
+    "color": "Xanh lá",
+    "ram": 4,
+    "storage": 64,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682262237498"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1682262237498"
+      }
+    },
+    "__v": 0
+  }
+]
